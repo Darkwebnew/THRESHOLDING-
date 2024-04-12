@@ -71,33 +71,26 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-<br>
-<br>
-<br>
-<br>
-<br>
+
+![1](https://github.com/Darkwebnew/THRESHOLDING-/assets/143114486/b0dbf2b6-2be9-46cb-81de-8a2b18885b86)
+
+### Gray Image
+
+![image](https://github.com/Darkwebnew/THRESHOLDING-/assets/143114486/920742a9-5cf5-4738-9b35-34a6ec2e7e0f)
 
 ### Global Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+
+![image](https://github.com/Darkwebnew/THRESHOLDING-/assets/143114486/8be5af0c-c8ef-49cb-9915-4f828241daad)
+![image](https://github.com/Darkwebnew/THRESHOLDING-/assets/143114486/7b7678ef-ee31-4c0b-9a0d-6ce151aef682)
+![image](https://github.com/Darkwebnew/THRESHOLDING-/assets/143114486/0e5d8f3a-5f83-48a4-9584-7a0e2612a1e1)
 
 ### Adaptive Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+
+![image](https://github.com/Darkwebnew/THRESHOLDING-/assets/143114486/4d0bc1af-f3e4-41a3-a007-9afb23f79ae7)
 
 ### Optimum Global Thesholding using Otsu's Method
-<br>
-<br>
-<br>
-<br>
-<br>
 
+![image](https://github.com/Darkwebnew/THRESHOLDING-/assets/143114486/18a8783b-8c0d-4526-8e87-d4769360ad5a)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
